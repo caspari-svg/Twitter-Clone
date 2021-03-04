@@ -23,5 +23,5 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://s4.gifyu.com/images/Screen-Recording-2021-03-03-at-10.40.06-PM.md.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://s4.gifyu.com/images/Screen-Recording-2021-03-03-at-10.40.06-PM.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
